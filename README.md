@@ -9,7 +9,7 @@
 
 ## About
 
-Welcome to the 2D Fluid Simulation repository! This project implements a real-time 2D fluid simulation using computational fluid dynamics (CFD) principles. It provides a visual representation of fluid behavior, allowing users to interact with and observe fluid dynamics in a 2D environment.
+This project implements a real-time 2D fluid simulation using OpenGL and shaders. It provides a visual representation of fluid behavior, allowing users to interact with and observe fluid dynamics in a 2D environment.
 
 ## Features
 
