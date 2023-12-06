@@ -1,6 +1,6 @@
 # Fluid Simulation
 
-![Demo simulation](https://github.com/zdun1o/readme_img/blob/main/demo.gif)
+![Demo simulation](demo.gif)
 
 ## Table of Contents
 
